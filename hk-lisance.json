@@ -3,5 +3,6 @@
     "domain":"",
     "lisance":true,
     "ads":false,
-    "adsText":""
+    "adsText":"",
+    "footerText":""
 }
