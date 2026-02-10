@@ -1,6 +1,6 @@
 {
     "domain":"localhost",
-    "license":true,
+    "enable":true,
     // ADS
     "ads":false,
     // md, text
