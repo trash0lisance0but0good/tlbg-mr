@@ -1,10 +1,13 @@
 {
+    // domain
     "domain":"localhost",
+    // enable
     "enable":true,
     // ADS
     "ads":false,
     // md, text
     "adsType":"",
+    // mdpath, text
     "adsTextOrPath":"",
     // ads show time
     "adsTime":30,
