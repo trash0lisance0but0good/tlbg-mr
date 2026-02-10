@@ -1,0 +1,13 @@
+{
+    "domain":"",
+    "lisance":true,
+    // ADS
+    "ads":false,
+    // md, text
+    "adsType":"",
+    "adsTextOrPath":"",
+    // ads show time
+    "adsTime":30,
+    //"📢 **Example** [Announcements](https://example.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "footerText":"Test"
+}
