@@ -6,7 +6,7 @@
     // ADS
     "ads":true,
     // mdpath
-    "adsPath":"https://raw.githubusercontent.com/trash0lisance0but0good/tlbg-mr/refs/heads/main/ads.md",
+    "adsPath":"https://cdn.statically.io/gh/trash0lisance0but0good/tlbg-mr@main/ads.md",
     // ads show time
     "adsTime":30,
     // enable footerText
