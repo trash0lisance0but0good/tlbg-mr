@@ -12,7 +12,7 @@
     // ads show time
     "adsTime":30,
     // enable footerText
-    "footerTextEnable":true,
+    "footerTextEnable":false,
     //"📢 **Example** [Announcements](https://example.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     "footerText":"📢 **Example** [Announcements](https://example.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 }
