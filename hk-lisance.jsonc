@@ -5,10 +5,8 @@
     "enable":true,
     // ADS
     "ads":false,
-    // md, text
-    "adsType":"",
-    // mdpath, text
-    "adsTextOrPath":"",
+    // mdpath
+    "adsPath":"https://raw.githubusercontent.com/trash0lisance0but0good/tlbg-mr/refs/heads/main/ads.md",
     // ads show time
     "adsTime":30,
     // enable footerText
