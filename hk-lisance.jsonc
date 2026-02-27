@@ -1,6 +1,6 @@
 {
     // domain
-    "domain":"192.168.91.191",
+    "domain":"localhost",
     // enable
     "enable":true,
     // ADS
